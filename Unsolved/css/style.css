@@ -13,14 +13,15 @@ h1 {
   color: #eee;
   font-size: 28px;
   text-align: center;
-  padding: 15px;
+  padding: 18px;
 }
 h2 {
   font-size: 24px;
 }
-div {
+.container {
   width: 1024px;
   margin: 0 auto;
+  line-height: 150%;
 }
 
 #main-bio,
@@ -38,7 +39,6 @@ div {
 }
 #contact-info {
   width: 30%;
-  line-height: 150%;
 }
 
 a {
